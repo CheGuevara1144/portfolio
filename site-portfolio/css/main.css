@@ -166,12 +166,33 @@ body {
 .nav-menu-btn {
     display: none;
 }
-
-
 /* === end header === */
 
-/* === header === */
-/* === end header === */
+/* === Home section === */
+.home{
+    padding: 80px 0;
+    min-height: 100vh;
+}
+.home-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+.media-icons{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.media-icons a {
+    color: var(--first-color);
+    font-size: 32px;
+}
 
-/* === header === */
-/* === end header === */
+/* === end Home section === */
+
+/* === Home section === */
+/* === end Home section === */
+
+/* === Home section === */
+/* === end Home section === */
